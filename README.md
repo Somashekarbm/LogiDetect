@@ -27,14 +27,14 @@ Run (1) to perform digit recognition using logistic regression.
 Run (2) to perform digit recognition using an MLP classifier.
 
 
-Results
+Results-
+
 Logistic Regression:
-
-Achieved accuracy: <insert accuracy percentage>.
+Achieved accuracy: -
 Displays actual and predicted digits to visually assess the model's performance.
-MLP Classifier:
 
-Achieved accuracy: <insert accuracy percentage>.
+MLP Classifier:
+Achieved accuracy: 93.3%.
 Visualizes random images along with their predicted labels to assess the model's performance.
 Conclusion
 Both logistic regression and MLP classifier models were trained and evaluated for digit recognition on the MNIST dataset. The accuracy and visualizations provide insights into the effectiveness of each approach in recognizing handwritten digits.
