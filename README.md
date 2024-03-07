@@ -1,4 +1,4 @@
-#MNIST Digit Recognition Project
+MNIST Digit Recognition Project
 
 Introduction
 This project focuses on developing models to recognize handwritten digits from the MNIST dataset using logistic regression and a multi-layer perceptron (MLP) classifier. The MNIST dataset consists of 28x28 pixel grayscale images of handwritten digits (0 to 9), making it a popular benchmark dataset for machine learning tasks.
